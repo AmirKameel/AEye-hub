@@ -33,7 +33,7 @@ An AI-powered application for analyzing football and tennis videos using compute
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-sports-analyzer.git
+   git clone https://github.com/AmirKameel/ai-sports-analyzer.git
    cd ai-sports-analyzer
    ```
 
